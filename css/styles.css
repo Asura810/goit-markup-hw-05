@@ -771,9 +771,7 @@ input:focus .form-icon {
 }
 
 .label-checkbox {
-  display: flex;
   align-items: center;
-  gap: 8px;
   cursor: pointer;
 
   font-size: 12px;
@@ -791,6 +789,7 @@ input:focus .form-icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  margin-right: 8px;
 
   width: 16px;
   height: 16px;
